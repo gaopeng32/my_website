@@ -13,9 +13,10 @@ weight = 0
 [interests]
   title = "Interests"
   interests = [
+    "System & Software Security",
+    "Machine Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Mining"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,19 +24,19 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electrical Engineering"
+  institution = "Princeton University, Princeton, NJ, USA"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in Electrical Engineering"
+  institution = "Princeton University, Princeton, NJ, USA"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Electrical and Computer Engineering"
+  institution = "Shanghai Jiao Tong University, Shanghai, China"
+  year = 2013
  
 +++
 
