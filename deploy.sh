@@ -7,14 +7,14 @@ rm -rf public
 hugo
 
 # Auto-commit
-git add .
-git commit -am "Deploy"
-git push
+# git add .
+# git commit -am "Deploy"
+# git push
 
-cd public
-git add .
-git commit -am "Deploy"
-git push
+# cd public
+# git add .
+# git commit -am "Deploy"
+# git push
 
-cd ..
+# cd ..
 
