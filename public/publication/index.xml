@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication-rsses on Peng Gao&#39;s Homepage</title>
+    <link>https://gaopeng32.github.io/publication/index.xml</link>
+    <description>Recent content in Publication-rsses on Peng Gao&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Peng Gao</copyright>
+    <lastBuildDate>Fri, 16 Dec 2016 13:31:28 -0500</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cloudtrap</title>
+      <link>https://gaopeng32.github.io/publication/cloudtrap/</link>
+      <pubDate>Fri, 16 Dec 2016 13:31:28 -0500</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/cloudtrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sybilframe</title>
+      <link>https://gaopeng32.github.io/publication/sybilframe/</link>
+      <pubDate>Fri, 16 Dec 2016 13:31:00 -0500</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/sybilframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sybilfuse</title>
+      <link>https://gaopeng32.github.io/publication/sybilfuse/</link>
+      <pubDate>Fri, 16 Dec 2016 13:30:57 -0500</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/sybilfuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tbql</title>
+      <link>https://gaopeng32.github.io/publication/tbql/</link>
+      <pubDate>Fri, 16 Dec 2016 13:30:49 -0500</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/tbql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://gaopeng32.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://gaopeng32.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaopeng32.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
