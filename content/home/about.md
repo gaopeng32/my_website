@@ -15,8 +15,8 @@ weight = 0
   interests = [
     "System & Software Security",
     "Machine Learning",
-    "Artificial Intelligence",
-    "Data Mining"
+    "Data Mining",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -42,6 +42,8 @@ weight = 0
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage! I'm a fourth-year Ph.D. student in the Department of Electrical Engineering at Princeton University, advised by [Prof. Prateek Mittal](https://www.princeton.edu/~pmittal/) and [Prof. Sanjeev Kulkarni](https://www.princeton.edu/~kulkarni/). I received my Bachelor's degree in Electrical and Computer Engineering at Shanghai Jiao Tong University with the highest honors. I worked as a research intern at Microsoft Research for one summer, and at NEC Laboratories, America for two falls. Apart from my research, I enjoy playing basketball, table tennis, swimming and traveling.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+For more information, please find my [CV](/) or [resume](pdf/info/resume.pdf).
+
+<!--I have broad interests in software & system security, machine learning, data mining and artificial intelligence. I enjoy applying beautiful theories into real-world applications, and building practical systems.-->

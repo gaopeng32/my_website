@@ -9,16 +9,19 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at University X:
+I served as a teaching assistant for the following course at Princeton University:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- ELE/COS 432 Information Security
+
+
+I served as a teaching assistant for the following courses at Shanghai Jiao Tong University:
+
+- VE401 Probabilistic Methods in Engineering
+- VE230 Electromagnetics I
+- VV256 Applied Calculus IV
+- VV255 Applied Calculus III
+- VV156 Applied Calculus II

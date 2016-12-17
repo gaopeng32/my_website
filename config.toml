@@ -16,10 +16,10 @@ googleAnalytics = "UA-87317538-2"
 [params]
   name = "Peng Gao 高鹏"
   role = "Ph.D. Candidate"
-  organization = "Princeton University"
+  organization = "Department of Electrical Engineering, Princeton University"
   avatar = "Portrait_Peng_Gao.jpeg"
   email = "pgao@princeton.edu"
-  address = "Engineering Quadrangle, Princeton University, Princeton, NJ 08544, USA."
+  address = "Office: Equad F310 P2"
   phone = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -99,25 +99,30 @@ googleAnalytics = "UA-87317538-2"
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
+
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+  name = "Experience"
+  url = "#experience"
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
