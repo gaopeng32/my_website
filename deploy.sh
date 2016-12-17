@@ -6,15 +6,18 @@ rm -rf public
 # Build the latest version
 hugo
 
-# Auto-commit
-# git add .
-# git commit -am "Deploy"
-# git push
+# Commit the changes in my_website
+git add *
+git commit -am "deploy update"
+git push
 
-# cd public
-# git add .
-# git commit -am "Deploy"
-# git push
+# Clean files in ~/GitHub/gaopeng32.github.io
+cd ~/GitHub/gaopeng32.github.io
+rm -rf *
 
-# cd ..
+# Copy to ~/GitHub/gaopeng32.github.io
+cp -rf ~/my_website/public/* ~/GitHub/gaopeng32.github.io
+git commit -am "deploy update"
+git push
+
 
