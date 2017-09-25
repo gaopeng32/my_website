@@ -1,6 +1,6 @@
 baseurl = "https://gaopeng32.github.io/"
 title = "Peng Gao's Homepage"
-copyright = "&copy; 2016 Peng Gao"
+copyright = "&copy; 2017 Peng Gao"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
@@ -17,7 +17,7 @@ googleAnalytics = "UA-87317538-2"
   name = "Peng Gao 高鹏"
   role = "Ph.D. Candidate"
   organization = "Department of Electrical Engineering, Princeton University"
-  avatar = "Portrait_Peng_Gao.jpeg"
+  avatar = "portrait.jpg"
   email = "pgao@princeton.edu"
   address = "Office: Equad F310 P2"
   phone = ""
@@ -38,8 +38,8 @@ googleAnalytics = "UA-87317538-2"
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  # custom_css = ["green.css"]
+  # custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
 

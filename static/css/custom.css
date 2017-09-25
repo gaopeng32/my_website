@@ -1,0 +1,19 @@
+/*************************************************
+ *  An Example Green Theme for Hugo Academic
+ *  Set `custom_css = ["green.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+html {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  line-height: 150%;
+  font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: bold;
+  line-height: 1.25;
+  font-size: 150%;
+}
